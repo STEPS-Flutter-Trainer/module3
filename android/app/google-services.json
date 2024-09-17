@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "464727409064",
+    "project_id": "module3-2ac69",
+    "storage_bucket": "module3-2ac69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464727409064:android:20963dfde28fbd54b89d9d",
+        "android_client_info": {
+          "package_name": "com.sreelakshmi.module3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4DClL-6BKfZr_5cHe5xzzPMr5J-OWJSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
